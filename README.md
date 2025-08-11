@@ -13,4 +13,5 @@ The data from this repository is used in the vignettes of the [metamorphr packag
 ## References
 
 Schermer, Y., Wagner, F., Stegmüller, S., & Richling, E. (2025). Comparison of popular enrichment methods for untargeted in vitro metabolomics. *Metabolomics*, 21(4), 103. <https://doi.org/10.1007/s11306-025-02309-0>
+
 Yurekten, O., Payne, T., Tejera, N., Amaladoss, F. X., Martin, C., Williams, M., & O’Donovan, C. (2024). MetaboLights: Open data repository for metabolomics. *Nucleic Acids Research*, 52(D1), D640–D646. <https://doi.org/10.1093/nar/gkad1045>
